@@ -1,0 +1,7 @@
+# Add this to .gitignore to avoid pushing large files
+faiss_layer1_db/
+*.zip
+__pycache__/
+.env
+*.pyc
+.DS_Store
