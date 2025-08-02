@@ -26,7 +26,7 @@ sentence-transformers==2.2.2
 transformers==4.36.2
 torch==2.5.0
 torchvision==0.21.0
-torchaudio==2.1.2
+torchaudio==2.6.0
 
 # Vector stores and search
 faiss-cpu==1.7.4
@@ -47,5 +47,6 @@ typing-extensions==4.8.0
 
 # Security and validation
 cryptography==41.0.8
+
 
 
