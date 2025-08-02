@@ -25,7 +25,7 @@ langchain-text-splitters==0.0.1
 sentence-transformers==2.2.2
 transformers==4.36.2
 torch==2.5.0
-torchvision==0.16.2
+torchvision==0.21.0
 torchaudio==2.1.2
 
 # Vector stores and search
@@ -47,4 +47,5 @@ typing-extensions==4.8.0
 
 # Security and validation
 cryptography==41.0.8
+
 
